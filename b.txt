@@ -1,1 +1,1 @@
-fgf
+Testando funcionalidade de git clone, realizando modificações em b.txt
